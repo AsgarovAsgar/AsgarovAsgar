@@ -9,6 +9,7 @@ Developer & Teacher
 
 <a href="https://www.github.com/AsgarovAsgar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AsgarovAsgar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+![](https://komarev.com/ghpvc/?username=asgarovasgar&color=0891b2&style=for-the-badge)
 
 ### Skills
 
